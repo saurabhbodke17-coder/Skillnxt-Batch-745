@@ -87,3 +87,4 @@ print(lst[8:2:-2])
 print(lst[-1:-9:-3])
 print(lst[2:8:-1])
 print(lst[-3:3:-2])
+

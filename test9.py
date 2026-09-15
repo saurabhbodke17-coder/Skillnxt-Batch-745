@@ -28,19 +28,19 @@ print(mail)
 # you cannot change the string once its declared 
 
 # some methods about the string 
-# data = "hello world"
-# new_data = data.upper()
+data = "hello world"
+new_data = data.upper()
 
-# print(data)
-# print(new_data)
+print(data)
+print(new_data)
 
-# txt = "Company12"
-# x = txt.isalnum()
-# print(x)
+txt = "Company12"
+x = txt.isalnum()
+print(x)
 
-# txt = "Hello, welcome to my world."
-# x = txt.find("welcome")
-# print(x)
+txt = "Hello, welcome to my world."
+x = txt.find("welcome")
+print(x)
 
 a = "hello how are you"
 del a

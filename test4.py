@@ -100,7 +100,7 @@ print(None)
 a = 20
 print(id(a))
 print(a)
-ß
+
 # whenever am writing as print(a) it means that i am going to address which a is storing and extrcacting 
 # the value which is stored over there 
 

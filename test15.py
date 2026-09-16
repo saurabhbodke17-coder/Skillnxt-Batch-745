@@ -2,6 +2,7 @@
 # unorderd , unique collection of element 
 # only unique items will be stored in this datatype
 # all duplicates will be droped while assigning the memory
+# set is enclosed in {} surlyb bracets
 
 data = {1,2,3,1,2,1,1}
 print(data) # {1, 2, 3}

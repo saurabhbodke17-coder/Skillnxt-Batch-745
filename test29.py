@@ -253,7 +253,7 @@ data = {"name": "Saurabh", "city": "Pune", "age": 28}
 
 a = 100
 b = 100
-# print(a is b)
+# print(a is b) # 
 # print(a == b)
 
 list1 = [1, 2, 3]

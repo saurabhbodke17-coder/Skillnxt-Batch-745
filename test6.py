@@ -1,18 +1,18 @@
-# print("The print is imported")
+print("The print is imported")
 
-# from test5 import car
-# innova = car(20 , 20)
-# print(innova.a)
-# print(innova.b)
+from test5 import car
+innova = car(20 , 20)
+print(innova.a)
+print(innova.b)
 
 
-# L = [1,2,3,4,5,6]
-# print("length of L is: ",len(L))
+L = [1,2,3,4,5,6]
+print("length of L is: ",len(L))
 
 # out of 5 
-# marks = [2 , 3, 4 , 4 ,3 ,2]
-# print(marks)
-# print("memory location of list is: ",id(marks))
+marks = [2 , 3, 4 , 4 ,3 ,2]
+print(marks)
+print("memory location of list is: ",id(marks))
 
 # nested lists 
 # list inside the list

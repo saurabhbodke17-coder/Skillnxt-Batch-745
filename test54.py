@@ -10,6 +10,11 @@ print(res)
 # 24000
 
 
+from arithmetics.multiply import multiply_2_numbers
+res = multiply_2_numbers(23 , 45)
+print(res)
+# 1035
+
 # why the modules are used 
 # they are used for the modularity and cleanness of program 
 # if you want to update then its very eassy to track the updates 

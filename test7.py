@@ -1,35 +1,35 @@
-# l = [1,2,3,4,5,6]
-# res = l[1:4:1]
-# print(res)
+l = [1,2,3,4,5,6]
+res = l[1:4:1]
+print(res)
 
-# res1 = l[0:5:2]
-# print(res1)
+res1 = l[0:5:2]
+print(res1)
 
-# res2 = l[3:6]
-# print(res2)
+res2 = l[3:6]
+print(res2)
 
-# res = l[1:6:2]
-# print(res)
+res = l[1:6:2]
+print(res)
 
-# l = ["vishal" , 23 , 56 , "raj" , 90,True, "Saurabh"]
-# res = l[2:6]
-# print(res)
+l = ["vishal" , 23 , 56 , "raj" , 90,True, "Saurabh"]
+res = l[2:6]
+print(res)
 
-# ress = l[0:7:2]
-# resm = l[0:7:3]
+ress = l[0:7:2]
+resm = l[0:7:3]
 
-# print(ress)
-# print(resm)
+print(ress)
+print(resm)
 
 
-# l = ["vishal" , 23 , 56 , "raj" , 90,True, "Saurabh"]
-# print(l[-4:0:1])
-# print(l[-4:-8:-1])
+l = ["vishal" , 23 , 56 , "raj" , 90,True, "Saurabh"]
+print(l[-4:0:1])
+print(l[-4:-8:-1])
 
-# print(l[0:])
-# print(l[:4])
-# print(l[-1:-5:-1])
-# print(l[6:2:-1])
+print(l[0:])
+print(l[:4])
+print(l[-1:-5:-1])
+print(l[6:2:-1])
 
 # done with slicing part ..
 # go for the methods 
@@ -78,3 +78,7 @@ data = [10 , 20 , 30, [10 , 20 , "vishal" , "raj" , [10 , 30 ,60 , 90] , 80 , 10
 # --> [20 , "raj" , 80]
 # print entire list in reverse order 
 
+
+print(data[3][5:7])
+print(data[3][4][0:3:2])
+print(data[3][1:6:2])
